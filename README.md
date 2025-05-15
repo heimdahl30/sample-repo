@@ -2,3 +2,5 @@ Just adding a README file to see what happens as Git asked me to do it to help p
 
 Adding text to see how the status changes
 
+Practice commits
+
