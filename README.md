@@ -4,3 +4,8 @@ Adding text to see how the status changes
 
 Practice commits
 
+##Branching
+
+Adding text to this file when we are in the feature branch to see how branching works.
+
+
